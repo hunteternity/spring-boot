@@ -1,7 +1,6 @@
 package org.domain.controller;
 
 import org.domain.dto.EmpDto;
-import org.domain.model.Dept;
 import org.domain.model.Emp;
 import org.domain.service.EmpService;
 import org.springframework.beans.factory.annotation.Autowired;

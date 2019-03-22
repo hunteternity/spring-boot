@@ -1,7 +1,5 @@
 package org.domain.dto;
 
-import java.util.Date;
-
 /**
  * Created by root on 3/20/19.
  */

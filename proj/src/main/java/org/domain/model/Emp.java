@@ -1,13 +1,8 @@
 package org.domain.model;
 
-import com.fasterxml.jackson.annotation.JsonBackReference;
-import com.fasterxml.jackson.annotation.JsonManagedReference;
-import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import com.fasterxml.jackson.databind.ser.std.StdSerializer;
 import org.domain.dto.EmpDto;
 
 import javax.persistence.*;
-import java.util.Date;
 
 /**
  * Created by root on 3/20/19.

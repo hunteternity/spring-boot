@@ -1,10 +1,5 @@
 package org.domain.dto;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
-
 /**
  * Created by root on 3/20/19.
  */

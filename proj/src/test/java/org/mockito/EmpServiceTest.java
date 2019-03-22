@@ -15,9 +15,6 @@ import org.mockito.junit.MockitoJUnitRunner;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.List;
-
-import static org.junit.Assert.assertEquals;
 
 /**
  * Created by root on 3/22/19.

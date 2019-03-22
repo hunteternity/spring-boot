@@ -1,7 +1,6 @@
 package org.domain.repository;
 
 import org.domain.model.Dept;
-import org.domain.model.Emp;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
