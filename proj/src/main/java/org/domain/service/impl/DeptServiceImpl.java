@@ -41,6 +41,7 @@ public class DeptServiceImpl implements DeptService {
 
             if(newDept.isEmpty()){
                 Dept dept = new Dept(dto);
+                dept.setDeptID(old.get(0).getDeptID());
                 deptRepository.save(dept);
             }else{
                 throw new RuntimeException("This dept already exist.");
